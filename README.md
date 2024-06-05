@@ -1,6 +1,8 @@
 # LarvaSeg
 Custom made MATLAB pipeline by Andrew Liu from the Carthew Lab @ Northwestern University. The code will allow you to segment out the outline of a Drosophila larva, help you define the midline, and lastly estimate the volume of the larva.
-This code is companion to the publication [link to eLife](https://doi.org/10.7554/eLife.91572.3).
+This code is companion to the eLife publication: 
+
+Liu A., O’Connell M., Wall F., Carthew R., (2024) Scaling between cell cycle duration and wing growth is regulated by Fat-Dachsous signaling in Drosophila. eLife. [https://doi.org/10.7554/eLife.91572.3](https://doi.org/10.7554/eLife.91572.3).
 
 # Tutorial
 There is a word document that runs through a tutorial of the pipeline.
